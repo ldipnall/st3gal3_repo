@@ -1,4 +1,4 @@
-# ST3GAL3 Gene Expression and Neural White matter Myelination in Children with ADHD
+# _ST3GAL3_ Gene Expression and Neural White matter Myelination in Children with ADHD
 This project is a part of the Children's Attention Project (CAP) and Neuroimaging in Children's Attention Project (NICAP).
 
 #### -- Project Status: [Active]
